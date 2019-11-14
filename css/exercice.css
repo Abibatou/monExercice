@@ -1,0 +1,10 @@
+body.banner {
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+table.table.table-striped.tableau {
+    border: 1px solid black;
+    box-shadow: 0px 0px 9px 3PX;
+    width: 65%;
+}
